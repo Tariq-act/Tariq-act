@@ -1,9 +1,14 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height:300px"  />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height:200px"  />
 </div>  
   
 
-### **<div align="center">I'm Tariq Khan, a Web developer, and Frontend developer👨‍💻</div>**  
+### **<h2 align="center">I'm Tariq Khan, a Web developer, and Frontend developer👨‍💻</h2>**  
+   
+ **I am seeking out opportunities to be a developer in the Web development field. I know front-end and back-end. And Solid
+  understanding and experience as a Frontend developer. Fluent with javascript and its ES6, ES7’s latest version, And also better
+  understanding of react and its hooks and packages.Skilled with frontend development with the popular framework and libraries like
+  React and Next.js. Highly Interested in Full stack web development** 
   
 
 - 🔭 I’m currently working on projects  
