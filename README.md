@@ -79,7 +79,7 @@
 </div>    
 
 <br/>  
-
+## Website Portfolio
 <a href="https://tariq-khan.netlify.app/" target="_blank">
 <img src=https://img.shields.io/badge/Tariq%20Khan-Website-blue alt=portfolio style="margin-bottom: 5px;" />
 </a> 
