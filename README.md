@@ -91,8 +91,11 @@
 
 <br/>  
 
-## Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tariq-act)    
+## Streak Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tariq-act" align="center"/>
+</div>
+
 
 
 <br/>  
