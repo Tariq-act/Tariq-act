@@ -79,31 +79,7 @@
 </div>    
 
 
-## Website Portfolio
-<a href="https://tariq-khan.netlify.app/" target="_blank">
-<img src=https://img.shields.io/badge/Tariq%20Khan-Website-blue alt=portfolio style="margin-bottom: 5px;" />
-</a> 
 
-<br/>
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tariq-act&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-## Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tariq-act" align="center"/>
-</div>
-
-
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Tariq-act&&style=flat-square" align="center" />
-</div>  
-  
 
 
 
